@@ -5220,7 +5220,7 @@
 - !<ScriptComponent/558201fb-8484-4e27-9d21-e540e8c0677b>
   PrefabRemaps:
     []
-  Name: HandButton.ts
+  Name: HandButton
   Enabled: true
   ScriptAsset: !<reference> 00a8cb41-3b7c-4aa9-8429-49aa090e1d48
   ScriptInputsDefault:
@@ -5229,7 +5229,7 @@
     {}
   ScriptInputs:
     "":
-      {}
+      button: !<MappingBased.PinchButton> c2bca1ed-c2d2-4fcf-9c4f-e85c0f00fd66
   ScriptTypes:
     "":
       {}

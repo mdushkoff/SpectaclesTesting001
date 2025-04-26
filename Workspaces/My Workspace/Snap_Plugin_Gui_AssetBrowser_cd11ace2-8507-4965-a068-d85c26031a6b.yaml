@@ -1,10 +1,9 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 580
+    size: 579
     values:
       - Echopark.hdr
-      - HandButton.ts.ts
       - Remote Service Module.remoteServiceModule
       - SpectaclesInteractionKit/Assets
       - SpectaclesInteractionKit/Assets/Audio
